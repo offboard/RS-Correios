@@ -1,0 +1,20 @@
+{
+    "name": "offboard/RS-Correios",
+    "type": "library",
+    "description": "Calcular o valor de frete para PAC, SEDEX e suas variações",
+    "keywords": ["Calcula frete", "php valor de frete","PAC","SEDEX"],
+    "homepage": "http://github.com/offboard/RS-Correios",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Rodrigo dos Santos",
+            "email": "falecom@rodrigodossantos.ws"
+        },{
+            "name": "Bruno Ribeiro",
+            "email": "brunowribeiroo@facebook.com"
+        },
+    ],
+    "require": {
+        "php": ">=5.3.5"
+    },
+}
