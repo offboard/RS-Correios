@@ -19,7 +19,7 @@
     },
     "autoload": {
         "classmap": [
-            "RsCorreios.php",
+            "RsCorreios.php"
         ]
     }
 }
