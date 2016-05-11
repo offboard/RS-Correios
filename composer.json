@@ -17,4 +17,9 @@
     "require": {
         "php": ">=5.3.5"
     },
+    "autoload": {
+        "classmap": [
+            "RsCorreios.php",
+        ]
+    }
 }
